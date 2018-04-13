@@ -1,0 +1,51 @@
+2018/02/23 週五 10:23:28.21  Error! 
+2018/02/23 週五 10:25:11.66  Error! 
+2018/02/23 週五 10:31:51.15  Success But noToday! 
+2018/02/23 週五 11:19:20.77  Success But noToday! 
+2018/02/23 週五 11:36:34.09  Success But noToday! 
+2018/02/23 週五 13:37:07.11  Success But noToday! 
+2018/02/23 週五 13:46:56.40  Success But noToday! 
+2018/02/23 週五 14:25:34.85  Error! 
+2018/02/23 週五 16:11:28.44  Success! 
+2018/02/23 週五 16:26:39.75  Success! 
+2018/03/01 週四 18:06:30.20  Success! 
+2018/03/20 週二  9:40:02.32  Success But noToday! 
+TXF_InvestmentTrust.csv 
+2018/03/20 週二  9:45:49.73  Success But noToday! 
+2018/03/20 週二  9:51:22.35  success_noToday!(All) 
+2018/03/20 週二  9:51:22.35  Success But noToday! 
+2018/03/20 週二  9:51:22.35  success_noToday!(All)
+2018/03/22 週四 14:45:43.12  success_noToday(All) 
+2018/03/22 週四 14:45:43.12  success_noToday(All) 
+2018/03/22 週四 14:45:43.12  success_noToday(All) 
+2018/03/22 週四 17:07:09.99  success_noToday(Big3) 
+2018/03/22 週四 17:42:55.89  success_yesToday(Big3) 
+2018/03/22 週四 17:42:55.89  success_yesToday(All) 
+2018/03/22 週四 17:46:25.20  success_yesToday(Big3) 
+2018/03/22 週四 17:46:25.20  success_yesToday(All) 
+2018/03/23 週五 10:08:01.76 REM 設定當天日期  success_noToday(Big3) 
+2018/03/23 週五 10:08:01.76 REM 設定當天日期  success_noToday(All) 
+2018/03/23 週五 10:08:46.29   success_noToday(Big3) 
+2018/03/23 週五 10:08:46.29   success_noToday(All) 
+2018/03/23 週五 11:20:28.71   success_noToday(Big3) 
+2018/03/23 週五 11:20:28.71   TXF_InvestmentTrust.csv 
+2018/03/23 週五 11:23:20.46   success_noToday(Big3)
+2018/03/23 週五 13:12:28.01   success_yesToday(Big3)
+2018/03/23 週五 13:12:28.01   success_yesToday(Big3) 
+2018/03/23 週五 13:12:28.01   success_yesToday(All) 
+2018/03/23 週五 13:12:28.01   success_yesToday(Big3) 
+2018/03/23 週五 13:12:28.01   success_yesToday(All) 
+2018/03/23 週五 13:12:28.01   success_yesToday(Big3) 
+2018/03/23 週五 13:12:28.01   success_yesToday(All) 
+2018/03/23 週五 13:12:28.01   success_yesToday(Big3) 
+2018/03/23 週五 13:12:28.01   success_yesToday(All)
+2018/03/23 週五 17:48:47.58   success_yesToday(Big3) 
+2018/03/23 週五 17:48:47.58   success_yesToday(All) 
+2018/03/23 週五 17:49:17.42   success_yesToday(Big3) 
+2018/03/23 週五 17:49:17.42   success_yesToday(All) 
+2018/03/27 週二 17:21:32.02   success_yesToday(Big3) 
+2018/03/27 週二 17:21:32.02   success_yesToday(All) 
+2018/04/02 週一  9:27:32.69   success_noToday(Big3) 
+2018/04/02 週一  9:27:32.69   success_noToday(All) 
+2018/04/09 週一 16:08:59.53   success_yesToday(Big3) 
+2018/04/09 週一 16:08:59.53   success_yesToday(All) 
