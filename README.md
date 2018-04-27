@@ -11,6 +11,10 @@ Crawl the OI information of Taifex with R and Python
 每日更新的時間點為16:00
 (期交所有時候公佈時間會慢)
 
+# 架構
+![alt text](https://github.com/Joshua6300018/Taifex_Crawler/blob/master/structure.png "Structure Plot")
+
+
 # 目前進度
 目前只完成R版本的三大法人未平倉&五個契約的交易資訊
 接下來持續改寫程Python版並預計加入Imply Var與選擇權的籌碼資料
