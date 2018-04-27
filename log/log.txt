@@ -49,3 +49,5 @@ TXF_InvestmentTrust.csv
 2018/04/02 週一  9:27:32.69   success_noToday(All) 
 2018/04/09 週一 16:08:59.53   success_yesToday(Big3) 
 2018/04/09 週一 16:08:59.53   success_yesToday(All) 
+2018/04/27 週五  9:36:24.78   success_noToday(Big3) 
+2018/04/27 週五  9:36:24.78   success_noToday(All) 
