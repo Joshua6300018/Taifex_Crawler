@@ -5,7 +5,7 @@ ECHO Start
 
 ::取得批次檔所在的路徑
 SET BatchPATH=%~DP0
-SET CompilerPath="C:\Users\90813\Documents\R\R-3.4.3\bin\Rscript"
+SET CompilerPath="C:\Program Files\R\R-3.4.4\bin\Rscript"
 ::SET CompilerPath="C:\Program Files\R\R-3.4.3\bin\Rscript"
 
 ECHO #######  載入當天資料 #######
