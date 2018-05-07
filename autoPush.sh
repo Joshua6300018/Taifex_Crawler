@@ -8,4 +8,4 @@ git push origin master
 #/usr/bin/git gc --aggressive --prune=all
 
 
-#read -p "Press enter to continue"
+read -p "Press enter to continue"
