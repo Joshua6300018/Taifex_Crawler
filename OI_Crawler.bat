@@ -46,7 +46,7 @@ ECHO %DT%  %All% >> log\log.txt
 	
 ECHO Finish
 
-pause
+::pause
 
 
 
