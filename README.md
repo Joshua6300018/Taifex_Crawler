@@ -23,6 +23,23 @@ And control them by batch script.
 
 You can use Linux Crontab or Windows Task Scheduler to run OI_Crawler.bat everyday after 16:00 p.m. 
 
+# 預計新增項目
+1. PC-ratio
+2. 三大法人-選擇權未平倉
+3. 大額交易人
+   (1) 交易人
+   (2) 特定法人
+   (3) PutCall/買賣 + 特法PC ratio
+   (4) 特法市場佔比
+
+4. 波動度(Imply Var)
+5. 選擇權OI(全市場)
+
+
+
+
+
+
 
 
 
