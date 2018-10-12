@@ -33,8 +33,15 @@ You can use Linux Crontab or Windows Task Scheduler to run OI_Crawler.bat everyd
    (4) 特法市場佔比
 
 4. 波動度(Imply Var)
-5. 選擇權OI(全市場)
-
+5. 選擇權各序列分開OI(全市場)
+   *把OI依照各序列的Delta分成五組:
+      (1) DeepITM 深價內 : Delta 大於 0.9 
+      (2) ITM     價內  : 0.9 > Delta > 0.5
+      (3) ATM     價平  : 最接近 0.5
+      (4) OTM     價外  : 0.5 > Delta > 0.1 
+      (5) DeepOTM 深價外 : Delta 小於 0.1 
+      
+ 
 
 
 
